@@ -1,5 +1,5 @@
 
-import profile from './profile.jpg';
+import profile from './profile.png';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import { } from '@fortawesome/free-solid-svg-icons';
 
@@ -45,7 +45,7 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"I graduated from University of Ilorin in 2019 with a bachelor of science degree in Physiology. I kick started my professional tech career as a frontend software developer working onsite as an intern for a multinational agrocommodity company that has its branches in a couple of countries — AFEX.",
+		"I graduated from University of Ilorin in 2019 with a bachelor of science degree in Physiology. I kick started my professional tech career as a frontend software developer working onsite as an intern for a multinational agrocommodity company that has its branches in a couple of countries — AFEX. I have also contributed in open source projects.",
 		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping new developers, and supporting organizations to promote diversity in tech.",
 		"When I’m not programming, I focus on my hobbies which are: surfing the internet, creative skills such as wig making or revamping and event services amongst others, meeting people and growing my network.",
 	],

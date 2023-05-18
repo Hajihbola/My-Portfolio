@@ -1,7 +1,8 @@
 const favicons = require("favicons")
 const fs = require('fs')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 
-const source = "config/profile.jpg" // Source image(s). `string`, `buffer` or array of `string`
+const source = "config/profile.png" // Source image(s). `string`, `buffer` or array of `string`
 
 const configuration = {
   path: "/", // Path for overriding default icons path. `string`
@@ -23,6 +24,14 @@ const configuration = {
   logging: false, // Print logs to console? `boolean`
   pixel_art: false, // Keeps pixels "sharp" when scaling up, for pixel art.  Only supported in offline mode.
   loadManifestWithCredentials: false, // Browsers don't send cookies when fetching a manifest, enable this to fix that. `boolean`
+  plugins: [
+    new CopyWebpackPlugin({ 
+      patterns: [ 
+       // relative path is from src
+       { from: './static/favicon.ico' }, // <- your path to favicon
+      ]
+   })
+  ],
   icons: {
     // Platform Options:
     // - offset - offset in percentage
@@ -78,4 +87,4 @@ const callback = function (error, response) {
 };
 
 console.log('Generating favicons...');
-favicons(source, configuration, callback);
+// favicons(source, configuration, callback);

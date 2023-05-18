@@ -83,8 +83,8 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
       git clone https://github.com/<your-username>/portfolio.git
     ``` 
 
-2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.jpg](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.jpg) with your image. 
-    >Note: You need to rename your image file as `profile.jpg`.
+2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.png) with your image. 
+    >Note: You need to rename your image file as `profile.png`.
 
 3. Run following scripts in terminal/command prompt to install dependencies.
     ```sh
