@@ -16,11 +16,11 @@ export const Intro = ({ title, description, image, buttons }) => {
 							{buttons.map((value, index) => (
 								(value.isPrimary) ?
 									<Link key={index} href={value.link}>
-										<a className="btn btn-primary my-1 mx-3">{value.title}</a>
+										<p className="btn btn-primary my-1 mx-3">{value.title}</p>
 									</Link>
 									:
 									<Link key={index} href={value.link}>
-										<a target="_blank" rel="noreferrer" className="btn btn-outline-primary my-1 mx-3">{value.title}</a>
+										<p target="_blank" rel="noreferrer" className="btn btn-outline-primary my-1 mx-3">{value.title}</p>
 									</Link>
 							))}
 						</div>
@@ -29,7 +29,7 @@ export const Intro = ({ title, description, image, buttons }) => {
 						<img
 							className="img-fluid my-3 card-image" width="250"
 							height="250" src={image}
-							alt="profile of hashirshoaeb"
+							alt="profile of odebunmi blessing"
 						/>
 					</div>
 				</div>

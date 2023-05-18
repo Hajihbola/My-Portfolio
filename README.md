@@ -7,14 +7,14 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://hashirshoaeb.github.io/portfolio"> hashirshoaeb.github.io/portfolio</a>
+    <a href="https://hajihbola.github.io/My-Portfolio"> hashirshoaeb.github.io/portfolio</a>
     <br />
     <br />
     <a href="https://hashirshoaeb.com">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Report Bug</a>
+    <a href="https://github.com/hajihbola/portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/hajihbola/My-Portfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,8 +83,8 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
       git clone https://github.com/<your-username>/portfolio.git
     ``` 
 
-2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.png) with your image. 
-    >Note: You need to rename your image file as `profile.png`.
+2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.jpg](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.jpg) with your image. 
+    >Note: You need to rename your image file as `profile.jpg`.
 
 3. Run following scripts in terminal/command prompt to install dependencies.
     ```sh
