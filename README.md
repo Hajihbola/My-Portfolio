@@ -7,20 +7,19 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://hajihbola.github.io/My-Portfolio"> hashirshoaeb.github.io/portfolio</a>
+    <a href="https://hajihbola.github.io/My-Portfolio"> hajihbola.github.io/portfolio</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.com">About Me</a>
+    <a href="https://odebunmi-blessing.netlify.app">About Me</a>
     ·
-    <a href="https://github.com/hajihbola/portfolio/issues">Report Bug</a>
+    <a href="https://github.com/hajihbola/My-Portfolio/issues">Report Bug</a>
     ·
     <a href="https://github.com/hajihbola/My-Portfolio/issues">Request Feature</a>
   </p>
 </p>
 
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/network)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/portfolio?style=for-the-badge)](https://github.com/hashirshoaeb/portfolio/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![GitHub forks](https://img.shields.io/github/forks/hajihbola/My-Portfolio?style=for-the-badge)](https://github.com/hajihbola/My-Portfolio/network)
+[![GitHub license](https://img.shields.io/github/license/hajihbola/My-Portfolio?style=for-the-badge)](https://github.com/hajihbola/My-Portfolio/blob/master/LICENSE)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=16.16.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -70,7 +69,7 @@ I know one template doesn't fulfill everyone's needs. So I'll try adding more fe
 <!-- GETTING STARTED -->
 # Getting Started
 
-Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below. Please feel free to reach out to me by filing an [issue](https://github.com/hashirshoaeb/portfolio/issues) or emailing me at hashirshoaeb@gmail.com for help configuring your project.
+Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below. Please feel free to reach out to me by filing an [issue](https://github.com/hajihbola/portfolio/issues) or emailing me at ajibolablessing3@@gmail.com for help configuring your project.
 
 ## Prerequisites
 
@@ -83,7 +82,7 @@ You should have [Nodejs](https://nodejs.org/en/) and [Git](https://git-scm.com/d
       git clone https://github.com/<your-username>/portfolio.git
     ``` 
 
-2. Edit the [config/config.js](https://github.com/hashirshoaeb/portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hashirshoaeb/portfolio/blob/main/config/profile.png) with your image. 
+2. Edit the [config/config.js](https://github.com/hajihbola/My-Portfolio/blob/main/config/config.js) file. Replace [config/profile.png](https://github.com/hajihbola/My-Portfolio/blob/main/config/profile.png) with your image. 
     >Note: You need to rename your image file as `profile.png`.
 
 3. Run following scripts in terminal/command prompt to install dependencies.
@@ -119,7 +118,7 @@ Create a new repository with your username as `<your-username>.github.io`. And l
 
 Your site will be available at `https://<your-username>.github.io`
 
->Note: You need to replace `<your-username>` with your username. To add CNAME for custom domain, see [scripts/cname.js](https://github.com/hashirshoaeb/portfolio/blob/main/scripts/cname.js)
+>Note: You need to replace `<your-username>` with your username. To add CNAME for custom domain, see [scripts/cname.js](https://github.com/hajihbola/My-Portfolio/blob/main/scripts/cname.js)
 
 
 
